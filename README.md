@@ -1,4 +1,3 @@
-# Pattern-Recognition-Neural-Network
+# Pattern Recognition Neural Network
 
-Neural Network for image pattern recognition using MATLAB.
-Trains NN with samples of leaves outlines to identify their species.
+An implementation of a neural network in MATLAB using bag of features to identify tree species based on the outline of their leaves.
